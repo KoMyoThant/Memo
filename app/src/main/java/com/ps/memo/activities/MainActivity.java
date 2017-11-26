@@ -1,4 +1,4 @@
-package com.ps.memo;
+package com.ps.memo.activities;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -8,6 +8,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.ps.memo.R;
 
 public class MainActivity extends AppCompatActivity {
 
